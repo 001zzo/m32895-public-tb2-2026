@@ -1,10 +1,8 @@
 # Folders
 venv/
+models/
 
 # Jupyter Notebooks - drafts
-jupyter_notebooks/lesson_6.2.ipynb
-jupyter_notebooks/lesson_7.1.ipynb
-jupyter_notebooks/lesson_7.2.ipynb
 jupyter_notebooks/lesson_8.1.ipynb
 jupyter_notebooks/lesson_8.2.ipynb
 jupyter_notebooks/lesson_9.1.ipynb
@@ -18,6 +16,7 @@ jupyter_notebooks/current_exercises.ipynb
 
 # Datasets
 datasets/mall_customers_k-means.csv
+datasets/fashion_mnist_processed.npz
 
 # __Course work support (samples)__
 
